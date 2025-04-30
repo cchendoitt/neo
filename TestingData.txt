@@ -1,0 +1,7 @@
+Address				New Election District 		Old Election District
+----------------------		---------------------		----------------------
+346 E 28 ST, MANHATTAN			046				014
+3000 GRAND CONC, BRONX			045				029
+1316 E 24 ST, BROOKLYN			020				022
+1636 NORMAN ST, QUEENS			054				007
+25 TREMONT AVE, STATEN ISLAND		044				042
